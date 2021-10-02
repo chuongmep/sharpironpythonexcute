@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command IronPython_engine</Text>
+    <Description>Some description for IronPython_engine</Description>
+    <Assembly>IronPython_engine.dll</Assembly>
+    <FullClassName>IronPython_engine.Command</FullClassName>
+    <ClientId>bb4121a2-a791-4ad8-8a11-aeeb84c6d57a</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
